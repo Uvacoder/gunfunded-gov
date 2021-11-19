@@ -1,5 +1,5 @@
 # NRA Funded
-
+-
 See how much the NRA gives your Congress members — and speak out. Built with React, [Rebass](http://jxnblk.com/rebass), [Geomicons](http://jxnblk.com/react-geomicons), [static-react](https://github.com/jxnblk/static-react), [axios](https://github.com/mzabriskie/axios), and [scrape-it](https://github.com/IonicaBizau/scrape-it).
 
 [**→ Check it out**](https://nrafunded.now.sh)
